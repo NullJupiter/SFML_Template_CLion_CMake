@@ -1,0 +1,3 @@
+/Users/mark/CLion Projects/SFML-Template/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/mark/CLion Projects/SFML-Template/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mark/CLion Projects/SFML-Template/cmake-build-debug/CMakeFiles/SFML_Template.dir
